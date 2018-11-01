@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars</string>
+
+    <string name="err_no_internet_connection_title">No Internet Connection</string>
+    <string name="msg_no_internet">7Peek Software is unable to connect to internet. Please check your data or wifi connection and try to connect again.</string>
+    <string name="no_internet_connection">No Internet connection. Make sure Wifi or cellular data is turned on, then try again.</string>
+    <string name="str_msg_fetching_articles">Fetching article list…</string>
+    <string name="no_data_found">No data found.</string>
+</resources>
